@@ -1,2 +1,7 @@
 #!/etc/bin/env java
 
+import os
+import sys
+
+url = "https:\\www.python.org"
+
